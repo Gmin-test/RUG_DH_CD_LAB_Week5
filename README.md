@@ -11,7 +11,7 @@ Dates can be used as filters or classifiers in further network analysis. URLs ar
 
 ## The data collection process
 1. Get All Data:
-The Guardian provides an open API to query the content it creates. First, I sign up for an API key, and then I use the Explore function from the Guardian Open Platform to filter and obtain the API link.
+The Guardian provides an open API to query the content it creates. First, I sign up for an API key, and then I use the Explore function from the [Guardian Open Platform](https://open-platform.theguardian.com/explore/) to filter and obtain the API link.
 2. Extract Data I Need:
 The response from the request contains many pieces of information that I am not interested in, such as sectionID. By parsing the format, I write a function to extract title, section, date, URL, and contents.
 3. Save Data into Files:
