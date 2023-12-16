@@ -28,7 +28,7 @@ Annotations contain 3 columns, processed using Spacy:
 3. Parts-of-speech (parts of speech of all the tokens in this document).
 
 ## Output
-There are two files for the corpus. One is 42 txt files for metadata and another is a csv files that contain annotation.
+There are two formate of the corpus. One is 42 [txt files](https://github.com/Gmin-test/RUG_DH_CD_LAB_Week5/tree/main/guardian_corpus) for metadata and another is a [csv file](https://github.com/Gmin-test/RUG_DH_CD_LAB_Week5/blob/main/Guardian_corpus_annotated.csv)that contain annotation.
 | Header   | Description                                     |
 |----------|-------------------------------------------------|
 | Filename | The name of the file corresponding to the document. |
