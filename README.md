@@ -5,7 +5,7 @@ The corpus includes 50 articles from the first five pages of December 2023. It c
 1. Relevance:
 Titles and main body contents containing the majority of textual information are essential for analysis.
 2. Representation and Volume:
-This serves as a pilot experiment for the group project, with the collection of only 222 articles. For the eventual project, the plan is to focus on specific topics like healthcare and a particular time span. Therefore, exploring larger datasets under a specific domain would be better to thoroughly investigate our research questions.
+This serves as a pilot experiment for the group project, with the collection of only 50 articles. For the eventual project, the plan is to focus on specific topics like healthcare and a particular time span. Therefore, exploring larger datasets under a specific domain would be better to thoroughly investigate our research questions.
 3. Annotation and Labeling:
 Dates can be used as filters or classifiers in further network analysis. URLs are also included so that, in case of character encoding issues or loss of metadata, we can trace back to the original link.
 
