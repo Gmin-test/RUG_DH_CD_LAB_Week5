@@ -1,5 +1,5 @@
 # The Guardian Corpus
-The corpus includes 50 articles from the first five pages of December 2023. It can be utilized by scholars to analyze sentiment and political standpoints from the newspaper.
+The corpus includes 50 articles from the first five pages of December 2023. It can be utilized by scholars to analyze sentiment and political standpoints from the newspaper. All the scraping and processing code is in [jupyter notebook](https://github.com/Gmin-test/RUG_DH_CD_LAB_Week5/blob/main/Guardian_Spacy_3_improved.ipynb).
 
 ## Text selection criteria
 1. Relevance:
